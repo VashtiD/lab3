@@ -1,0 +1,12 @@
+h1,h2,h3{
+ Background-color: orange;
+  color: #006347 ; 
+  font-family: 'Courier New', Courier, monospace;
+}
+p{
+   border: 2px;
+  Border-radius:28%;
+  border-style:solid;
+  border-color:beige;
+  color:black;
+  background-color: red;
